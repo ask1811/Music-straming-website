@@ -1,1 +1,1 @@
-# Music-straming-website
+# Music-streaming-website
